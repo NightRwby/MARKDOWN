@@ -18,5 +18,5 @@
 
 ##링크(바로가기)<br>
 [네이버](https://naver.com)<br>
-<a href="naver.com" target="_blank">새탭 열고 이동</a>
+<a href="https:naver.com" target="_blank">새탭 열고 이동</a>
 
